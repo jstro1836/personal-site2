@@ -1,0 +1,23 @@
+body {
+  background-image: url(./img/background.jpeg);
+}
+
+.nav {
+  background-image: url(https://img.freepik.com/free-photo/starry-night-sky_1048-11828.jpg?size=626&ext=jpg&ga=GA1.1.1139617346.1709221640&semt=ais);
+  display: flex;
+  justify-content: flex-end;
+  color:aliceblue;
+}
+
+a    {
+  color:aliceblue;
+  font-size: x-large;
+  margin: 10px;
+}
+
+.intro {
+  color:aliceblue;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
